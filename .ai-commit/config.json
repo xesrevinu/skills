@@ -1,0 +1,27 @@
+{
+  "scopes": [
+    {
+      "name": "v3-atoms",
+      "description": "Artifacts related to Effect v3 atoms, including reference docs and test-app components for client/server jobs."
+    },
+    {
+      "name": "v3-bp",
+      "description": "Best-practice material for Effect v3, covering core-modeling, databases and errors, error handling, testing and delivery, and transport RPC references."
+    },
+    {
+      "name": "v4-bp",
+      "description": "Best-practice material for Effect v4, covering core-modeling, databases and errors, error handling, testing and delivery, and transport RPC references."
+    },
+    {
+      "name": "eventlog",
+      "description": "Eventlog local-first guidance and patterns, including engine-patterns references and SKILL doc."
+    },
+    {
+      "name": "ultimate-search",
+      "description": "Materials for the ultimate-search project, including the SKILL doc and related references."
+    }
+  ],
+  "hook": [
+    "conventional"
+  ]
+}
